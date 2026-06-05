@@ -4,7 +4,7 @@ A collection of skill files for AI coding agents (OpenClaw, Claude Code, Cursor,
 Each skill contains rules, conventions, checklists, and templates that help AI agents
 produce production-grade code following best practices.
 
-## Daftar Isi
+## List of Contents
 
 ```
 aiskills/
@@ -63,9 +63,9 @@ aiskills/
     └── ai-agent-architecture/SKILL.md  # AI Agent Architecture
 ```
 
-## Ringkasan
+## Summary
 
-| Kategori | Skills |
+| Category | Skills |
 |----------|:------:|
 | 🟦 Frontend | 6 |
 | 🟩 Backend | 4 |
