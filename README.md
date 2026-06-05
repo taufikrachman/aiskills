@@ -77,8 +77,6 @@ aiskills/
 | 🤖 AI/ML | 3 |
 | **Total** | **33 skills** |
 
-Detail lengkap: [docs/PLAN.md](docs/PLAN.md)
-
 ## Cara Pakai
 
 1. Pilih skill yang dibutuhkan
