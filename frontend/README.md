@@ -1,6 +1,7 @@
 # Frontend Developer Skills
 
-AI agent skills untuk developer frontend. Setiap skill berisi rules, conventions, checklist, dan template yang membuat AI agent menghasilkan kode frontend produksi.
+AI agent skills for frontend developers. Each skill contains rules, conventions, checklists,
+and templates that help AI agents produce production-grade frontend code.
 
 ## Skills
 

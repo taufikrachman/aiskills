@@ -1,8 +1,8 @@
 # AISkills — Premium AI Agent Skills
 
-Koleksi skill files untuk AI coding agents (OpenClaw, Claude Code, Cursor, dll).
-Setiap skill berisi rules, conventions, checklist, dan template yang membuat AI agent
-menghasilkan kode production-grade sesuai best practice.
+A collection of skill files for AI coding agents (OpenClaw, Claude Code, Cursor, etc).
+Each skill contains rules, conventions, checklists, and templates that help AI agents
+produce production-grade code following best practices.
 
 ## Daftar Isi
 
@@ -77,8 +77,8 @@ aiskills/
 | 🤖 AI/ML | 3 |
 | **Total** | **33 skills** |
 
-## Cara Pakai
+## Usage
 
-1. Pilih skill yang dibutuhkan
-2. Copy folder skill ke skills directory AI agent kamu
-3. Agent akan otomatis membaca SKILL.md dan mengikuti rules di dalamnya
+1. Pick the skill(s) you need
+2. Copy the skill folder into your AI agent's skills directory
+3. The agent will automatically read SKILL.md and follow its rules

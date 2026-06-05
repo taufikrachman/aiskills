@@ -1,16 +1,17 @@
 # Backend Developer Skills
 
-AI agent skills untuk developer backend. Setiap skill berisi rules, conventions, checklist, dan template untuk membangun API yang production-grade.
+AI agent skills for backend developers. Each skill contains rules, conventions, checklists,
+and templates for building production-grade APIs.
 
 ## Skills
 
-| # | Skill | Deskripsi |
-|---|-------|-----------|
-| 7 | NestJS API Builder | Module/controller/service, DTO validation, TypeORM, Swagger |
-| 8 | Node.js Backend Patterns | Error handling, logging, rate limiting, caching, BullMQ |
-| 9 | Auth & Security | JWT, OAuth2, sessions, CSRF, CORS, rate limiting |
-| 10 | API Design & Documentation | REST conventions, OpenAPI 3.0, pagination, error formats |
+| # | Skill | File |
+|---|-------|------|
+| 7 | NestJS API Builder | `nestjs-api/SKILL.md` |
+| 8 | Node.js Backend Patterns | `nodejs-patterns/SKILL.md` |
+| 9 | Auth & Security | `auth-security/SKILL.md` |
+| 10 | API Design & Documentation | `api-design/SKILL.md` |
 
 ## Usage
 
-Copy folder skill ke directory AI agent kamu. Agent akan otomatis membaca SKILL.md dan mengikuti rules di dalamnya.
+Copy the skill folder into your AI agent's skills directory. The agent will automatically read SKILL.md and follow its rules.

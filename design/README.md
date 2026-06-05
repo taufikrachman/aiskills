@@ -1,12 +1,17 @@
 # UI/UX Design Skills
 
-AI agent skills untuk designer dan UI engineer. Setiap skill berisi rules design system, component states, responsive patterns.
+AI agent skills for designers and UI engineers. Each skill contains design system rules,
+component states, and responsive patterns.
 
 ## Skills
 
-| # | Skill | Deskripsi |
-|---|-------|-----------|
-| 11 | UI Component Design | Tokens, states, empty/loading/error patterns |
-| 12 | Mobile-First Responsive | Breakpoints, touch targets, safe areas, platform conventions |
-| 13 | Dashboard & Data Viz | Charts, KPI cards, filter/sort, empty states |
-| 14 | Form & Onboarding UX | Validation, multi-step, progress indicators, error recovery |
+| # | Skill | File |
+|---|-------|------|
+| 11 | UI Component Design | `ui-component/SKILL.md` |
+| 12 | Mobile-First Responsive | `mobile-responsive/SKILL.md` |
+| 13 | Dashboard & Data Viz | `dashboard-data-viz/SKILL.md` |
+| 14 | Form & Onboarding UX | `form-onboarding-ux/SKILL.md` |
+
+## Usage
+
+Copy the skill folder into your AI agent's skills directory. The agent will automatically read SKILL.md and follow its rules.
