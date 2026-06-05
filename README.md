@@ -65,14 +65,12 @@ aiskills/
 ├── engineering/
 │   ├── bug-fixing/SKILL.md            # Bug Fixing — Systematic Debugging
 │   └── refactoring/SKILL.md           # Refactoring — Safe Code Improvement
-│
-└── docs/                              (gitignored — local only)
-    └── PLAN.md
+
 ```
 
-## Ringkasan
+## Summary
 
-| Kategori | Skills |
+| Category | Skills |
 |----------|:------:|
 | 🟦 Frontend | 6 |
 | 🟩 Backend | 4 |
