@@ -1,4 +1,4 @@
-# AISkills — Fundamental Developer Skills Marketplace
+# AISkills — Premium AI Agent Skills
 
 **Date**: 2026-06-05
 **Categories**: 8 | **Skills**: 33 | **Total Value**: $360

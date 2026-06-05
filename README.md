@@ -1,4 +1,4 @@
-# AISkills — AI Agent Skills Marketplace
+# AISkills — Premium AI Agent Skills
 
 Koleksi skill files untuk AI coding agents (OpenClaw, Claude Code, Cursor, dll).
 Setiap skill berisi rules, conventions, checklist, dan template yang membuat AI agent
