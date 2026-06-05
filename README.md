@@ -10,60 +10,57 @@ menghasilkan kode production-grade sesuai best practice.
 aiskills/
 ├── frontend/
 │   ├── react-component/
-│   │   ├── SKILL.md                   # React Component Builder
-│   │   ├── checklist.md               # Review checklist
+│   │   ├── SKILL.md                    # React Component Builder
+│   │   ├── checklist.md                # Review checklist
 │   │   └── rules/
-│   │       ├── do.md                  # Best practices
-│   │       └── dont.md                # Anti-patterns
-│   ├── nextjs-app-router/SKILL.md     # Next.js App Router
+│   │       ├── do.md                   # Best practices
+│   │       └── dont.md                 # Anti-patterns
+│   ├── nextjs-app-router/SKILL.md      # Next.js App Router
 │   ├── tailwind-design-system/SKILL.md # Tailwind CSS Design System
-│   ├── typescript-strict/SKILL.md     # TypeScript Strict Mode
-│   ├── frontend-testing/SKILL.md      # Frontend Testing Suite
-│   └── web-performance-seo/SKILL.md   # Web Performance & SEO
+│   ├── typescript-strict/SKILL.md      # TypeScript Strict Mode
+│   ├── frontend-testing/SKILL.md       # Frontend Testing Suite
+│   └── web-performance-seo/SKILL.md    # Web Performance & SEO
 │
 ├── backend/
-│   ├── nestjs-api/SKILL.md            # NestJS API Builder
-│   ├── nodejs-patterns/SKILL.md       # Node.js Backend Patterns
-│   ├── auth-security/SKILL.md         # Auth & Security
-│   └── api-design/SKILL.md            # API Design & Documentation
+│   ├── nestjs-api/SKILL.md             # NestJS API Builder
+│   ├── nodejs-patterns/SKILL.md        # Node.js Backend Patterns
+│   ├── auth-security/SKILL.md          # Auth & Security
+│   └── api-design/SKILL.md             # API Design & Documentation
 │
 ├── design/
-│   ├── ui-component/SKILL.md          # UI Component Design
-│   ├── mobile-responsive/SKILL.md     # Mobile-First Responsive
-│   ├── dashboard-data-viz/SKILL.md    # Dashboard & Data Visualization
-│   └── form-onboarding-ux/SKILL.md    # Form & Onboarding UX
+│   ├── ui-component/SKILL.md           # UI Component Design
+│   ├── mobile-responsive/SKILL.md      # Mobile-First Responsive
+│   ├── dashboard-data-viz/SKILL.md     # Dashboard & Data Visualization
+│   └── form-onboarding-ux/SKILL.md     # Form & Onboarding UX
 │
 ├── devops/
-│   ├── docker-container/SKILL.md      # Docker & Containerization
-│   ├── ci-cd-pipeline/SKILL.md        # CI/CD Pipeline Builder
-│   ├── cloud-deployment/SKILL.md      # Cloud Deployment (AWS/VPS)
-│   └── monitoring-logging/SKILL.md    # Monitoring & Logging
+│   ├── docker-container/SKILL.md       # Docker & Containerization
+│   ├── ci-cd-pipeline/SKILL.md         # CI/CD Pipeline Builder
+│   ├── cloud-deployment/SKILL.md       # Cloud Deployment (AWS/VPS)
+│   └── monitoring-logging/SKILL.md     # Monitoring & Logging
 │
 ├── mobile/
-│   ├── flutter-app/SKILL.md           # Flutter App Builder
-│   ├── react-native/SKILL.md          # React Native Patterns
-│   ├── mobile-ui-polish/SKILL.md      # Mobile UI Polish
-│   └── app-store-deploy/SKILL.md      # App Store Deployment
+│   ├── flutter-app/SKILL.md            # Flutter App Builder
+│   ├── react-native/SKILL.md           # React Native Patterns
+│   ├── mobile-ui-polish/SKILL.md       # Mobile UI Polish
+│   └── app-store-deploy/SKILL.md       # App Store Deployment
 │
 ├── database/
-│   ├── postgresql-master/SKILL.md     # PostgreSQL Query Master
-│   ├── mysql/SKILL.md                 # MySQL Query Master
-│   ├── mongodb-schema/SKILL.md        # MongoDB Schema Design
-│   ├── redis-caching/SKILL.md         # Redis Caching Strategy
-│   └── data-migration/SKILL.md        # Data Migration & Seeding
+│   ├── postgresql-master/SKILL.md      # PostgreSQL Query Master
+│   ├── mysql/SKILL.md                  # MySQL Query Master
+│   ├── mongodb-schema/SKILL.md         # MongoDB Schema Design
+│   ├── redis-caching/SKILL.md          # Redis Caching Strategy
+│   └── data-migration/SKILL.md         # Data Migration & Seeding
 │
 ├── ecommerce/
-│   ├── payment-integration/SKILL.md   # Payment Integration
-│   ├── pos-architecture/SKILL.md      # POS System Architecture
-│   └── saas-boilerplate/SKILL.md      # SaaS Boilerplate Builder
+│   ├── payment-integration/SKILL.md    # Payment Integration
+│   ├── pos-architecture/SKILL.md       # POS System Architecture
+│   └── saas-boilerplate/SKILL.md       # SaaS Boilerplate Builder
 │
-├── aiml/
-│   ├── llm-api-integration/SKILL.md   # LLM API Integration
-│   ├── rag-architecture/SKILL.md      # RAG Architecture
-│   └── ai-agent-architecture/SKILL.md # AI Agent Architecture
-│
-└── docs/
-    └── PLAN.md                        # Business plan & pricing
+└── aiml/
+    ├── llm-api-integration/SKILL.md    # LLM API Integration
+    ├── rag-architecture/SKILL.md       # RAG Architecture
+    └── ai-agent-architecture/SKILL.md  # AI Agent Architecture
 ```
 
 ## Ringkasan
